@@ -10,33 +10,33 @@
 		"prettier": "prettier --write src"
 	},
 	"dependencies": {
-		"@headlessui/react": "2.2.9",
+		"@headlessui/react": "2.2.10",
 		"clsx": "2.1.1",
-		"geist": "1.5.1",
-		"maplibre-gl": "5.16.0",
+		"geist": "1.7.0",
+		"maplibre-gl": "5.23.0",
 		"moment": "2.30.1",
-		"motion": "12.29.2",
-		"next": "^16.2.3",
+		"motion": "12.38.0",
+		"next": "^16.2.4",
 		"pako": "2.1.0",
-		"react": "^19.2.4",
-		"react-dom": "^19.2.4",
+		"react": "^19.2.5",
+		"react-dom": "^19.2.5",
 		"sharp": "0.34.5",
 		"zod": "3.25.76",
-		"zustand": "5.0.10"
+		"zustand": "5.0.12"
 	},
 	"devDependencies": {
-		"@tailwindcss/postcss": "4.1.18",
-		"@types/node": "22.19.7",
+		"@tailwindcss/postcss": "4.2.3",
+		"@types/node": "22.19.17",
 		"@types/pako": "2.0.4",
-		"@types/react": "^19.2.9",
+		"@types/react": "^19.2.14",
 		"@types/react-dom": "^19.2.3",
-		"eslint": "9.39.2",
-		"eslint-config-next": "16.1.5",
+		"eslint": "9.39.4",
+		"eslint-config-next": "16.2.4",
 		"eslint-config-prettier": "10.1.8",
-		"prettier": "3.8.1",
+		"prettier": "3.8.3",
 		"prettier-plugin-tailwindcss": "0.7.2",
-		"tailwindcss": "4.1.18",
+		"tailwindcss": "4.2.3",
 		"typescript": "5.9.3"
 	},
-	"packageManager": "yarn@4.9.1+sha512.f95ce356460e05be48d66401c1ae64ef84d163dd689964962c6888a9810865e39097a5e9de748876c2e0bf89b232d583c33982773e9903ae7a76257270986538"
+	"packageManager": "yarn@4.14.1"
 }
