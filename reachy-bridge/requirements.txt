@@ -1,0 +1,5 @@
+anthropic>=0.25.0
+sseclient-py>=1.7.2
+requests>=2.31.0
+reachy-mini>=0.1.0
+python-dotenv>=1.0.0
